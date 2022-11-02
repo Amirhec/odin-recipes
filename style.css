@@ -1,0 +1,91 @@
+body {
+    background: yellow;
+
+}
+
+div.index-header {
+        color: brown;
+        font-weight: 800;
+        font-size: 40px;
+}
+
+div.links {
+    font-size: 20px;
+    font-weight: 400;
+    color:black;
+}
+
+/* this is css for the second page crab boil*/
+
+.crab {
+        text-align: center;
+        font-style: italic;
+}
+
+.description-crab {
+    text-align: center;
+    font-weight: 700;
+    color: brown ;
+}
+
+.first-para{
+    font-style: italic;
+}
+
+.ingredients,
+.ingredients-list
+{
+    color: blue;
+}
+.ingredients-list{
+    color: black;
+    font-weight: 900;
+}
+.steps{ color: blue;
+
+
+}
+
+
+.procedure{ color: black;
+            font-weight: 700;
+
+}
+
+/*this is the css for the 3rd page egg muffin bite*/
+
+.egg-muffin-header{
+        text-align: center;
+        font-style: italic;
+}
+
+.description-muffin{
+    text-align: center;
+    color:brown;
+    font-weight: 800;
+}
+.muffin-ingredients{
+    color: blue;
+    font-size: 18px;
+}
+.muffin-steps{
+    color: blue;
+
+}
+
+/* this is the css for the 4th page oatmeal*/
+
+.oatmeal-header{
+    text-align: center;
+    font-style: italic;
+
+}
+.oatmeal-description{
+     text-align: center;
+     color: brown;
+
+}
+.ingredients,
+.steps      {color: blue;
+
+}
